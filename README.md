@@ -1,5 +1,5 @@
 -----------
-<center> <b> <h1> Hello I'm Yacine 👋 </h1> </b> </center> 
+<div align="center"><h1><b>Hello I'm Yacine 👋</b></h1></div>
 
 -----------
 
@@ -9,7 +9,7 @@ I just graduated in mechatronics engineering with a master in aerospace and arti
 
 I am always looking to improve on my Python skills.
 
-<center> <i>Meilleur qu'hier, moins bien que demain.</i></center>
+<div align="center"><i>Meilleur qu'hier, moins bien que demain.</i></div>
 
 
 <!--
