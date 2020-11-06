@@ -7,7 +7,7 @@ Welcome to my profile !
 
 I just graduated in mechatronics engineering with a master in aerospace and artificial intelligence. I'm curious about new tech and science.
 
-I am always looking to improve on my Python skills.
+I am always looking to improve on my Python :snake: skills.
 
 <div align="center"><i>Meilleur qu'hier, moins bien que demain.</i></div>
 
