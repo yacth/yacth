@@ -9,7 +9,7 @@ I just graduated in mechatronics engineering with a master in aerospace and arti
 
 I am always looking to improve on my Python :snake: skills.
 
-<div align="center"><i>  « Meilleur qu'hier, moins bien que demain. »</i></div>
+<!-- <div align="center"><i>  « Meilleur qu'hier, moins bien que demain. »</i></div> -->
 
 <!--
 **yacth/yacth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
